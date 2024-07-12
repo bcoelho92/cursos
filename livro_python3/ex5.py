@@ -3,7 +3,7 @@ my_age = 32
 my_height = 74  #polegadas
 my_weight = 100  #libras
 my_eyes = "black"
-my_teeth = "whife"
+my_teeth = "white"
 my_hair = "black"
 
 print(f"let's talk about {my_name}")
